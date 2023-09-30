@@ -1,0 +1,238 @@
+
+div img{
+    margin: 5px;
+    width:45%;
+    height: 150%;
+    background-attachment: fixed;
+}
+.exer h1,h3{
+    position: absolute;
+    left:880px;
+}
+.exer h1{
+    top:30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 7vh;
+}
+.exer h3{
+    top:110px;
+    left:950px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3vh;
+}
+a{
+    position: absolute;
+    left:1040px;
+    top:150px;
+    font-size: 3vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid black;
+    padding: 10px 25px;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-top: 20px;
+    display: inline-block;
+    color:black;
+}
+.port h1{
+    position: absolute;
+    top:220px;
+    left:745px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 5vh;
+    color: grey;
+    text-decoration: underline;
+}
+.img1{
+    position: absolute;
+    left:720px;
+    top:305px;
+    width:55%;
+    height:25%;
+}
+.img2{
+    position: absolute;
+    left:1100px;
+    top:750px;
+    width:60%;
+    height:26%;
+}
+.img3{
+    position: absolute;
+    left:720px;
+    top:595px;
+    width:52%;
+    height:40%;
+}
+.img4{
+    position: absolute;
+    left:1120px;
+    top:305px;
+    width:57%;
+    height:38%;
+
+}
+.about h1{
+    position: absolute;
+    top:1030px;
+    left: 105px;
+    font-size: 4.5vh;
+    color: gray;
+    text-decoration: underline;
+}
+.about p{
+    position: absolute;
+    top:1090px;
+    font-family: serif;
+    font-size: 3vh;
+    margin-left: 100px; 
+    margin-right: 100px;     
+    justify-content: space-between;
+}
+.skill h1{
+    position: absolute;
+    top:1200px;
+    left:105px;
+    font-size: 4.5vh;
+    color: gray;
+    text-decoration: underline;
+}
+.skill h2{
+    position: absolute;
+    top:1250px;
+    left:105px;
+    font-size: 4vh; 
+}
+.skill img{
+    position: absolute;
+    top:1315px;
+    left:105px;
+    height:30px;
+}
+.s2 h2{
+    position: absolute;
+    top:1345px;
+    left:105px;
+    font-size: 4vh; 
+}
+.s2 img{
+    position: absolute;
+    top:1415px;
+    left:105px;
+    height:30px;
+}
+.r h2{
+    position: absolute;
+    top:1445px;
+    left:105px;
+    font-size: 4vh;
+}
+.r img{
+    position: absolute;
+    top:1515px;
+    left:105px;
+    height:30px;
+}
+.loca h1{
+    position: absolute;
+    top:1550px;
+    left:105px;
+    font-size: 4.5vh;
+    color: gray;
+    text-decoration: underline;
+}
+.loca img{
+    position:absolute;
+    width:45px;
+    height: 55px;
+    top:1620px;
+    left:105px;
+}
+.loca p{
+    position:absolute;
+    top:1610px;
+    left:180px;
+    font-size: 3.2vh;
+}
+.loco1 img{
+    position:absolute;
+    width:85px;
+    height: 60px;
+    top:1675px;
+    left:85px;
+}
+.loco1 p{
+    position:absolute;
+    top:1670px;
+    left:180px;
+    font-size: 3.2vh;
+}
+.loco2 img{
+    position:absolute;
+    width:55px;
+    height: 45px;
+    top:1740px;
+    left:97px;
+}
+.loco2 p{
+    position:absolute;
+    top:1730px;
+    left:180px;
+    font-size: 3.2vh;
+}
+form {
+    position: absolute;
+    top:1870px;
+    width: 400px;
+    padding: 60px;
+    left:100px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+
+}
+h1 {
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+input[type="submit"] {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+form > * {
+    margin-bottom: 10px;
+}
+.mess p{
+    position: absolute;
+    top:1800px;
+    left:105px;
+    font-size: 3vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+
+  
