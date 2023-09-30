@@ -1,0 +1,28 @@
+h1{
+    font-family: serif;
+    font-size: 10vh;
+    text-align: center;
+    background-color: pink;
+    border: 2px solid black;
+    margin-bottom: -5px;
+}
+p{
+    font-family: serif;
+    font-size: 3vh;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+a{
+    display: block;
+    text-align: center;
+}
+div img{
+    border-radius: 7px;
+    box-shadow: 0 0 15px -2px #444444;
+}
+div a{
+    padding: 10px;
+    
+}
